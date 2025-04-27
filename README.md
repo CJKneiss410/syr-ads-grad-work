@@ -55,7 +55,8 @@ Used Python for sentiment analysis and clustering to extract trends in NHL Stanl
 
 ### IST737: Visual Analytics Dashboard  
 **March Madness: What It Takes to Dance & Dominate**  
-Developed a Tableau storyboard illustrating statistical keys to NCAA Tournament success. Includes final storyboard PDF.
+Developed a Tableau storyboard illustrating statistical keys to NCAA Tournament success.
+Link to Project: https://us-east-1.online.tableau.com/t/shaamvisualanalytics/views/Kneiss_Final_Project_March_Madness/Story1?:origin=card_share_link&:embed=n
 
 ---
 
